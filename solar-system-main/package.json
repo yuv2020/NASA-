@@ -1,0 +1,17 @@
+{
+  "name": "solar-syatem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.168.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
